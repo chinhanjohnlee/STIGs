@@ -1,1 +1,28 @@
+<#
+.SYNOPSIS
+    (PUT STIG SYNOPSIS HERE)
 
+.NOTES
+    Author          : Chin han John Lee
+    LinkedIn        : linkedin.com/in/johnleetech/
+    GitHub          : github.com/chinhanjohnlee
+    Date Created    : 
+    Last Modified   : 
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : (PUTSTIGIDHERE)
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+    Put any usage instructions here.
+    Example syntax:
+    PS C:\> .\(PUTSTIGIDHERE).ps1 
+#>
+
+#(PUT CODE HERE)
