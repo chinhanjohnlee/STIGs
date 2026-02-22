@@ -3,11 +3,11 @@
     Standard user accounts must not be granted elevated privileges. Enabling Windows Installer to elevate privileges when installing applications can allow malicious persons and applications to gain full control of a system.
 
 .NOTES
-    Author          : William Olega
-    LinkedIn        : linkedin.com/in/williamolega/
-    GitHub          : github.com/williamolega
-    Date Created    : 2025-11-11
-    Last Modified   : 2025-11-11
+    Author          : Chin Han John Lee
+    LinkedIn        : linkedin.com/in/johnleetech/
+    GitHub          : github.com/chinhanjohnlee
+    Date Created    : 2026-02-23
+    Last Modified   : 2026-02-23
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
