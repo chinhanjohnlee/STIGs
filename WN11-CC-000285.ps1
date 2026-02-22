@@ -3,11 +3,11 @@
   The Remote Desktop Session Host must require secure RPC communications.
 
 .NOTES
-    Author          : William Olega
-    LinkedIn        : linkedin.com/in/williamolega/
-    GitHub          : github.com/williamolega
-    Date Created    : 2025-11-12
-    Last Modified   : 2025-11-12
+    Author          : Chin Han John Lee
+    LinkedIn        : linkedin.com/in/johnleetech/
+    GitHub          : github.com/chinhanjohnlee
+    Date Created    : 2026-02-23
+    Last Modified   : 2026-02-23
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
