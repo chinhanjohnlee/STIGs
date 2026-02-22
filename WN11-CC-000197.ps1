@@ -3,11 +3,11 @@
     Microsoft consumer experiences must be turned off. Turning off Microsoft consumer experiences will help prevent the unwanted installation of suggested applications.
 
 .NOTES
-    Author          : William Olega
-    LinkedIn        : linkedin.com/in/williamolega/
-    GitHub          : github.com/williamolega
-    Date Created    : 2025-11-12
-    Last Modified   : 2025-11-12
+    Author          : Chin Han John Lee
+    LinkedIn        : linkedin.com/in/johnleeech/
+    GitHub          : github.com/chinhanjohnlee
+    Date Created    : 2026-02-22
+    Last Modified   : 2025-02-22
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
