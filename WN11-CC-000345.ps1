@@ -3,11 +3,11 @@
   The Windows Remote Management (WinRM) service must not use Basic authentication. Basic authentication uses plain text passwords that could be used to compromise a system.
  
 .NOTES
-    Author          : William Olega
-    LinkedIn        : linkedin.com/in/williamolega/
-    GitHub          : github.com/williamolega
-    Date Created    : 2025-11-12
-    Last Modified   : 2025-11-12
+    Author          : Chin Han John Lee
+    LinkedIn        : linkedin.com/in/johnleetech/
+    GitHub          : github.com/chinhanjohnlee
+    Date Created    : 2026-02-24
+    Last Modified   : 2026-02-24
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
