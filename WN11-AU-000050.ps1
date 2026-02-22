@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
     Audit logs are necessary to provide a trail of evidence in case the system or network is compromised. This maintains an audit trail of successful system activity. Collecting this data is essential for analyzing the security of information assets and detecting signs of suspicious and unexpected behavior.
-    **NOTE**: First, your machine must implement WN11-SO-000030 (https://github.com/williamolega/williamolega/blob/main/STIGs/WN11-SO-000030.ps1)
+    **NOTE**: First, your machine must implement WN11-SO-000030 (https://github.com/chinhanjohnlee/STIGs/blob/main/WN11-AU-000050.ps1)
               IF WN11-SO-000030 is not implemented, this may not work properly
               Run as Administrator
 
