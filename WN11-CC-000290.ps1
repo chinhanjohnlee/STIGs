@@ -3,11 +3,11 @@
     Remote Desktop Services must be configured with the client connection encryption set to the required level.Selecting "High Level" will ensure encryption of Remote Desktop Services sessions in both directions.
   
 .NOTES
-    Author          : William Olega
-    LinkedIn        : linkedin.com/in/williamolega/
-    GitHub          : github.com/williamolega
-    Date Created    : 2025-11-12
-    Last Modified   : 2025-11-12
+    Author          : Chin Han John Lee
+    LinkedIn        : linkedin.com/in/johnleetech/
+    GitHub          : github.com/chinhanjohnlee
+    Date Created    : 2026-02-23
+    Last Modified   : 2026-02-23
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
